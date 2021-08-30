@@ -1,6 +1,8 @@
 import requests
 from datetime import datetime
 
+# tambah komen
+
 api_key = 'c36bc2fd7ce762a4707aa43361293b98'
 location = input("Enter the city name: ")
 
